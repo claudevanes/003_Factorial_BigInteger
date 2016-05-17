@@ -6,4 +6,9 @@ public class RenameMe {
 		// TODO Auto-generated constructor stub
 	}
 
+	public void methodRenameMe(){
+		
+		System.out.println("");
+	}
+	
 }
